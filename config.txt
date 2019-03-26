@@ -1,6 +1,7 @@
-token= هنا حق التوكين حق بوتك
-owner= هنا حط الايدي حقك 
-prefix= هنا البرفكس حق بوتك
-game= هنا حط الكلام الي يجي في البلاينج
-stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
-songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
+token=NTYwMTEyMjcxMjQyNTU5NDg4.D3vNZw._-vt7984zfHbGrDyR0x1pTLc1NI
+owner=473837190145900575 
+owner=474568043423465478
+prefix=+
+game=+help
+stayinchannel=true
+songinstatus=true
